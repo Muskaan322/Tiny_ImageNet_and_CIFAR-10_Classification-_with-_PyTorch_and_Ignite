@@ -18,10 +18,11 @@ A complete PyTorch pipeline for image classification on **Tiny ImageNet** and **
 - Experiments with **pre-trained ImageNet normalization** and **EfficientNet**
 
 ## Visualization
-This shows a batch of training images:
-
+Batch of Images:
 ![Batch of Image](https://github.com/Muskaan322/Tiny_ImageNet_and_CIFAR-10_Classification-_with-_PyTorch_and_Ignite/blob/main/batch%20of%20training%20set%20image.png)
+Batch of Pre-Trained Normalized Image:
 ![Batch of pre-trained normalized image](https://github.com/Muskaan322/Tiny_ImageNet_and_CIFAR-10_Classification-_with-_PyTorch_and_Ignite/blob/main/batch%20of%20pre-train%20normalized%20image.png)
+Batch of Validation:
 ![Batch of Validation](https://github.com/Muskaan322/Tiny_ImageNet_and_CIFAR-10_Classification-_with-_PyTorch_and_Ignite/blob/main/Display%20batch%20of%20validation.png)
 
   ## Results
