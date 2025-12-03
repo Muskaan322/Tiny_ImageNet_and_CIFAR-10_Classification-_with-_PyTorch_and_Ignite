@@ -37,10 +37,7 @@ A complete PyTorch pipeline for image classification on **Tiny ImageNet** and **
 | Recall    | 0.54  |
 | F1-score  | 0.53  |
 
-> ⚠️ Note: Metrics may vary depending on GPU, batch size, and number of epochs.  
-
-### Sample Training Progress (Optional Visualization)
-You can include screenshots of training curves or TensorBoard logs here:  
+> ⚠️ Note: Metrics may vary depending on GPU, batch size, and number of epochs. 
 
 ---
 
