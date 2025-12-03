@@ -17,8 +17,17 @@ A complete PyTorch pipeline for image classification on **Tiny ImageNet** and **
 - GPU acceleration support  
 - Experiments with **pre-trained ImageNet normalization** and **EfficientNet**
 
-  ![Sample Image](https://github.com/Muskaan322/Tiny_ImageNet_and_CIFAR-10_Classification-_with-_PyTorch_and_Ignite/blob/main/download.png)
+## Visualization
 
+This is a random image from the training dataset:
+
+### Batch Sample
+This shows a batch of training images:
+![Batch of Image](https://github.com/Muskaan322/Tiny_ImageNet_and_CIFAR-10_Classification-_with-_PyTorch_and_Ignite/blob/main/batch%20of%20training%20set%20image.png)
+
+![Batch of pre-trained normalized image](https://github.com/Muskaan322/Tiny_ImageNet_and_CIFAR-10_Classification-_with-_PyTorch_and_Ignite/blob/main/batch%20of%20pre-train%20normalized%20image.png)
+
+![Batch of Validation](https://github.com/Muskaan322/Tiny_ImageNet_and_CIFAR-10_Classification-_with-_PyTorch_and_Ignite/blob/main/Display%20batch%20of%20validation.png)
 
   ## Results
 
