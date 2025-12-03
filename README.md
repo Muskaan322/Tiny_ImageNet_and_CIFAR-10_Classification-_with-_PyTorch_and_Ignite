@@ -17,6 +17,9 @@ A complete PyTorch pipeline for image classification on **Tiny ImageNet** and **
 - GPU acceleration support  
 - Experiments with **pre-trained ImageNet normalization** and **EfficientNet**
 
+  ![Sample Image](https://github.com/Muskaan322/Tiny_ImageNet_and_CIFAR-10_Classification-_with-_PyTorch_and_Ignite/blob/main/download.png)
+
+
   ## Results
 
 ### CIFAR-10 (Custom CNN)
